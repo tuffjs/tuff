@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/tuffjs/tuff/issues"
   },
-  "homepage": "https://github.com/tuffjs/tuff#readme"
+  "homepage": "https://github.com/tuffjs/tuff#readme",
+  "dependencies": {
+    "snabbdom": "^0.6.9"
+  }
 }
